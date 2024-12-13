@@ -54,4 +54,5 @@ function conexionBD() {
 ## Consideración con las fotos de perfil
 
 En caso de que en los formularios del usuario o del contacto no se haya subido una imagen, se les asignaará como avatar/foto la siguiente imagen:
-![RoadRover Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/724px-Database-mysql.svg.png)
+
+![RoadRover Logo]((https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/724px-Database-mysql.svg.png))
