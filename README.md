@@ -33,3 +33,12 @@ Este proyecto es una aplicación web de agenda de contactos que permite a múlti
 | `mensaje.php`            | La clase mensaje                                           |
 | `estilos.css`            | Archivo CSS para los estilos                                |
 
+## Ejemplo de función: conexionBD() 
+
+
+```
+bloque de codigo
+if (codigo) {
+
+}
+```
