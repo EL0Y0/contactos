@@ -14,3 +14,22 @@ Este proyecto es una aplicación web de agenda de contactos que permite a múlti
 - PHP
 - MySQL
 - HTML/CSS
+
+## Estructura del Proyecto
+
+/agenda-contactos
+│
+├── index.php # Página principal con la lista de contactos
+├── login.php # Página de inicio de sesión
+├── registro.php # Página de registro de nuevos usuarios
+├── detalles.php # Página que muestra los detalles del contacto y permite enviar mensajes
+├── cerrarSesion.php # Página que informa que se ha cerrado la sesión
+├── conexion.php # Función que establece la conexión con la Base de Datos
+├── usuariosService.php # Funciones de gestión de usuarios
+├── contactosService.php # Funciones de gestión de contactos
+├── mensajesService.php # Funciones de gestión de mensajes
+├── usuario.php # La clase usuario
+├── contacto.php # La clase contacto
+├── mensaje.php # La clase mensaje
+└── estilos.css # Archivo CSS para los estilos
+text
