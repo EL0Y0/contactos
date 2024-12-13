@@ -35,8 +35,7 @@ Este proyecto es una aplicación web de agenda de contactos que permite a múlti
 
 ## Ejemplo de función: conexionBD() 
 
-
-```
+```php
 function conexionBD() {
     $host = 'localhost';
     $usuario = 'root';
