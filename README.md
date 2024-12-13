@@ -57,6 +57,6 @@ En caso de que en los formularios del usuario o del contacto no se haya subido u
 
 ![RoadRover Logo](brian_placeholder.png)
 
-## Página usada para consultar el código
+## Página usada para consultar información sobre el código
 
 [w3school](https://www.w3schools.com/)
