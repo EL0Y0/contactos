@@ -59,6 +59,4 @@ En caso de que en los formularios del usuario o del contacto no se haya subido u
 
 ## Página usada para consultar el código
 
-En caso de que en los formularios del usuario o del contacto no se haya subido una imagen, se les asignaará como avatar/foto la siguiente imagen:
-
 [w3school](https://www.w3schools.com/)
