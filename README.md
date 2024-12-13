@@ -54,4 +54,4 @@ function conexionBD() {
 ## Consideración con las fotos de perfil
 
 En caso de que en los formularios del usuario o del contacto no se haya subido una imagen, se les asignaará como avatar/foto la siguiente imagen:
-![](img/brian_placeholder.png)
+![](brian_placeholder.png)
