@@ -61,4 +61,4 @@ En caso de que en los formularios del usuario o del contacto no se haya subido u
 
 En caso de que en los formularios del usuario o del contacto no se haya subido una imagen, se les asignaará como avatar/foto la siguiente imagen:
 
-[w3school]([URL](https://www.w3schools.com/))
+[w3school](https://www.w3schools.com/)
