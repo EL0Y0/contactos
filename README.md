@@ -8,3 +8,9 @@ Este proyecto es una aplicación web de agenda de contactos que permite a múlti
 - **Gestión de Contactos**: Los usuarios pueden agregar, buscar y ver detalles de sus contactos.
 - **Mensajería**: Los usuarios pueden enviar mensajes a sus contactos y ver el historial de mensajes.
 - **Interfaz Intuitiva**: La aplicación cuenta con una interfaz sencilla y fácil de usar.
+
+## Lenguajes Utilizados
+
+- PHP
+- MySQL
+- HTML/CSS
