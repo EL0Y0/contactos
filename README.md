@@ -37,8 +37,18 @@ Este proyecto es una aplicación web de agenda de contactos que permite a múlti
 
 
 ```
-bloque de codigo
-if (codigo) {
+function conexionBD() {
+    $host = 'localhost';
+    $usuario = 'root';
+    $password = '';
+    $basededatos = 'migtd4';
 
+    $conexion = new mysqli($host, $usuario, $password, $basededatos);
+
+    if ($conexion->connect_error) {
+        echo 'nanai de la china';
+        die('la has cagao chaval');
+    }
+    return $conexion;
 }
 ```
